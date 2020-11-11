@@ -1,0 +1,40 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "nr": "A01",
+      "capacity": 4,
+      "loc_x": 0,
+      "loc_y": 0,
+      "requests": [
+        {
+          "id": 1,
+          "name": "New kitchen",
+          "price": 100
+        },
+        {
+          "id": 2,
+          "nr": "A03",
+          "capacity": 4,
+          "loc_x": 0,
+          "loc_y": 0,
+          "requests": [
+            {
+              "id": 2,
+              "name": "New bathroom",
+              "price": 120
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nr": "A05",
+          "capacity": 4,
+          "loc_x": 0,
+          "loc_y": 0,
+          "requests": []
+        }
+      ]
+    }
+  ]
+}
